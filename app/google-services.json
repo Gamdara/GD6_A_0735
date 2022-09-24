@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "96657020473",
+    "project_id": "gd6-a-0735",
+    "storage_bucket": "gd6-a-0735.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:96657020473:android:24e4d99f1b63ad8337dfe8",
+        "android_client_info": {
+          "package_name": "com.rama.gd6_a_0735"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "96657020473-aas2e3a19h6to5j3tar1oph3prr99rjf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvpSjI87lGxhRe8oxCH5BJpD7-dMCaxvM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "96657020473-aas2e3a19h6to5j3tar1oph3prr99rjf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
